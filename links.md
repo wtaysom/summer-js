@@ -5,6 +5,7 @@ We collect links to all the tools, training, tutorials, reference, and libraries
 * [Eloquent JavaScript](http://eloquentjavascript.net/): A Modern Introduction to Programming
 * [Stanford CS101](http://www.stanford.edu/class/cs101/)
 * [jQuery Fundamentals](http://jqfundamentals.com/book/)
+* [Foundation HTML5 Canvas](http://rawkes.com/foundationcanvas) book and [Canvas from Scratch](http://net.tutsplus.com/sessions/canvas-from-scratch/) tutorial from same author
 * [w3schools](http://www.w3schools.com/js/default.asp) JavaScript tutorial
 * [.appendTo](http://learn.appendto.com/lessons) video tutorials
 * [Essential JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#designpatternsjavascript)
