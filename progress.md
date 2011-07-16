@@ -11,3 +11,4 @@ We track what we do each day.
 * Install [Skype](http://www.skype.com/intl/en/welcomeback/).
 * Read [Introduction](http://eloquentjavascript.net/) to Eloquent JavaScript.
 * Sign up with [Singpath](http://http://www.singpath.com/).
+* Sign up with [GitHub](https://github.com/) Get [Git](http://git-scm.com/) working.  Far more work than it should be.  Problems with Chinese and SSH keys.
