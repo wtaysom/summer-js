@@ -12,6 +12,7 @@ We track what we do each day.
 * Read [Introduction](http://eloquentjavascript.net/) to Eloquent JavaScript.
 * Sign up with [Singpath](http://http://www.singpath.com/).
 * Sign up with [GitHub](https://github.com/) Get [Git](http://git-scm.com/) working.  Far more work than it should be.  Problems with Chinese and SSH keys.
+
 ## Sunday 17
 
 * Read CS101 Code Introduction, half of the Digital images. 
