@@ -88,3 +88,28 @@ See [Bad Parts of JavaScript: The Good Parts](http://oreilly.com/javascript/exce
 ## `while (true)`
 
 One way to loop until a explicity `break` is with `while (true) {...}`.  Another way is with `for (;;) {...}`.  I prefer the empty `for` myself.
+
+
+
+
+# [3](http://eloquentjavascript.net/chapter3.html) Functions
+
+## Conditional `?:` operator.
+
+I would answer Ex. 3.1 as follows:
+
+	function absolute(x) {
+		return x < 0 ? -x : x;
+	}
+
+The `?:` operator is handy.
+
+## Pure Functions
+
+Pure functions are a often easier to program with than functions with side effects.  So much so that [some programming langauges](http://haskell.org/haskellwiki/Haskell) only have pure functions.
+
+## Slow and Intuitive: Fast and Convoluted
+
+> In many situations, an elegant, intuitive, and often short solution can be replaced by a more convoluted but faster solution. ... The basic rule, which has been repeated by many programmers and with which I wholeheartedly agree, is to not worry about efficiency until your program is provably too slow. When it is, find out which parts are too slow, and start exchanging elegance for efficiency in those parts.
+
+I also wholeheartedly agree.
