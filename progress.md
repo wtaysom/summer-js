@@ -22,4 +22,12 @@ Clayton
 
 William
 
-* Talked with Clayton about Git pulling, branching, and merging.
+* Talk with Clayton about Git pulling, branching, and merging.
+* Write notes for Eloquent JS [Chapter 2](http://eloquentjavascript.net/chapter2.html).
+
+## Monday 18
+
+William
+
+* Add [JSLint](http://www.jslint.com/) and [QUnit](http://docs.jquery.com/QUnit) links.
+* Write notes for Eloquent JS [Chapter 3](http://eloquentjavascript.net/chapter3.html).
