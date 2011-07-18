@@ -15,5 +15,11 @@ We track what we do each day.
 
 ## Sunday 17
 
-* Read CS101 Code Introduction, half of the Digital images. 
-* Done Homework 1 question 1 and 2.
+Clayton
+
+* Read [CS101 Code Introduction](http://www.stanford.edu/class/cs101/code-introduction.html), half of the [Digital Images](http://www.stanford.edu/class/cs101/digital-images.html). 
+* Done [Homework 1](http://www.stanford.edu/class/cs101/homework1.html) question 1 and 2.
+
+William
+
+* Talked with Clayton about Git pulling, branching, and merging.
