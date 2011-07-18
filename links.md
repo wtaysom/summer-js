@@ -18,6 +18,8 @@ We collect links to all the tools, training, tutorials, reference, and libraries
 * [Git](http://git-scm.com/) for version control
 * [jsdo.it](http://jsdo.it/) for posting tiny JavaScript projects
 * [jsdoc-toolkit](http://code.google.com/p/jsdoc-toolkit/) for documentation generation
+* [JSLint](http://www.jslint.com/) for checking JavaScript style
+* [QUnit](http://docs.jquery.com/QUnit) what jQuery uses for unit testing
 
 # Reference
 
